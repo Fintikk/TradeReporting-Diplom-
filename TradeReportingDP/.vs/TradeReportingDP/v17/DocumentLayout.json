@@ -1,9 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "O:\\Fintikk\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\TradeReportingDP(Work)\\TradeReportingDP\\",
+  "WorkspaceRootPath": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\TradeReportingDP\\TradeReportingDP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A986B75-3471-4E57-9B1D-215990F55D45}|TradeReportingDP\\TradeReportingDP.csproj|o:\\fintikk\\\u0434\u0438\u043F\u043B\u043E\u043C\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\tradereportingdp(work)\\tradereportingdp\\tradereportingdp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A986B75-3471-4E57-9B1D-215990F55D45}|TradeReportingDP\\TradeReportingDP.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\tradereportingdp\\tradereportingdp\\tradereportingdp\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A986B75-3471-4E57-9B1D-215990F55D45}|TradeReportingDP\\TradeReportingDP.csproj|solutionrelative:tradereportingdp\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A986B75-3471-4E57-9B1D-215990F55D45}|TradeReportingDP\\TradeReportingDP.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\tradereportingdp\\tradereportingdp\\tradereportingdp\\forms\\editshipmentf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A986B75-3471-4E57-9B1D-215990F55D45}|TradeReportingDP\\TradeReportingDP.csproj|solutionrelative:tradereportingdp\\forms\\editshipmentf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A986B75-3471-4E57-9B1D-215990F55D45}|TradeReportingDP\\TradeReportingDP.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\tradereportingdp\\tradereportingdp\\tradereportingdp\\forms\\editshipmentf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A986B75-3471-4E57-9B1D-215990F55D45}|TradeReportingDP\\TradeReportingDP.csproj|solutionrelative:tradereportingdp\\forms\\editshipmentf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A986B75-3471-4E57-9B1D-215990F55D45}|TradeReportingDP\\TradeReportingDP.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\tradereportingdp\\tradereportingdp\\tradereportingdp\\forms\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A986B75-3471-4E57-9B1D-215990F55D45}|TradeReportingDP\\TradeReportingDP.csproj|solutionrelative:tradereportingdp\\forms\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A986B75-3471-4E57-9B1D-215990F55D45}|TradeReportingDP\\TradeReportingDP.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\tradereportingdp\\tradereportingdp\\tradereportingdp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A986B75-3471-4E57-9B1D-215990F55D45}|TradeReportingDP\\TradeReportingDP.csproj|solutionrelative:tradereportingdp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,10 +39,60 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Global.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\TradeReportingDP\\TradeReportingDP\\TradeReportingDP\\Global.cs",
+              "RelativeDocumentMoniker": "TradeReportingDP\\Global.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\TradeReportingDP\\TradeReportingDP\\TradeReportingDP\\Global.cs",
+              "RelativeToolTip": "TradeReportingDP\\Global.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:13:54.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditShipmentF.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\TradeReportingDP\\TradeReportingDP\\TradeReportingDP\\Forms\\EditShipmentF.cs",
+              "RelativeDocumentMoniker": "TradeReportingDP\\Forms\\EditShipmentF.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\TradeReportingDP\\TradeReportingDP\\TradeReportingDP\\Forms\\EditShipmentF.cs",
+              "RelativeToolTip": "TradeReportingDP\\Forms\\EditShipmentF.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:08:00.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditShipmentF.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\TradeReportingDP\\TradeReportingDP\\TradeReportingDP\\Forms\\EditShipmentF.cs",
+              "RelativeDocumentMoniker": "TradeReportingDP\\Forms\\EditShipmentF.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\TradeReportingDP\\TradeReportingDP\\TradeReportingDP\\Forms\\EditShipmentF.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TradeReportingDP\\Forms\\EditShipmentF.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:07:59.287Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\TradeReportingDP\\TradeReportingDP\\TradeReportingDP\\Forms\\Product.cs",
+              "RelativeDocumentMoniker": "TradeReportingDP\\Forms\\Product.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\TradeReportingDP\\TradeReportingDP\\TradeReportingDP\\Forms\\Product.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TradeReportingDP\\Forms\\Product.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:07:34.397Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "O:\\Fintikk\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\TradeReportingDP(Work)\\TradeReportingDP\\TradeReportingDP\\Program.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\TradeReportingDP\\TradeReportingDP\\TradeReportingDP\\Program.cs",
               "RelativeDocumentMoniker": "TradeReportingDP\\Program.cs",
-              "ToolTip": "O:\\Fintikk\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\TradeReportingDP(Work)\\TradeReportingDP\\TradeReportingDP\\Program.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\TradeReportingDP\\TradeReportingDP\\TradeReportingDP\\Program.cs",
               "RelativeToolTip": "TradeReportingDP\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
