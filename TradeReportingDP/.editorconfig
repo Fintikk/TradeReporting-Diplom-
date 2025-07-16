@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0018: Объявление встроенной переменной
+dotnet_diagnostic.IDE0018.severity = none
